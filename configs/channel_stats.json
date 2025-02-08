@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-08T09:25:56.852593+00:00",
+  "timestamp": "2025-02-08T09:28:54.641675+00:00",
   "channels": [
     {
       "url": "https://robin.nscl.ir",
@@ -8,11 +8,11 @@
         "total_configs": 54289,
         "valid_configs": 157,
         "unique_configs": 157,
-        "avg_response_time": 0.76,
+        "avg_response_time": 0.82,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.94,
-        "last_success": "2025-02-08T09:25:54.149075+00:00",
+        "overall_score": 73.84,
+        "last_success": "2025-02-08T09:28:51.833361+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
