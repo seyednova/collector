@@ -4,9 +4,11 @@
 //support-url: https://t.me/NOVA_timeline
 //profile-web-page-url: https://github.com/seyednova
 
-vless://%33%38%37%61%33%32%30%38%2d%35%65%62%35%2d%34%65%39%32%2d%38%37%39%33%2d%36%65%38%33%36%64%35%64%66%34%64%64@151.101.130.228:443?Telegram=@V2RayTz,@V2RayTz&security=tls&sni=haj%6cab.%75cda%76is.%65du&type=ws&path=/@S%68h_P%72oxy%2d-%40Shh%5fPro%78y%2d-@S%68h_P%72oxy%2d-%40Shh%5fPro%78y%2d-@S%68h_P%72oxy%2d-%40Shh%5fPro%78y%2d-@S%68h_P%72oxy%2d-%40Shh%5fPro%78y%2d-@S%68h_P%72oxy%2d-%40Shh%5fPro%78y%2d-@S%68h_P%72oxy%2d-%40Shh%5fPro%78y?e%64=20%348&host=joi%6eshh%70rox%79bed%65eee%65ee.%69r&encryption=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D+%E2%9E%A0+%40V2RayTz+%7C+34083
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-169@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@PrivateVPNN
 
-vless://%33%38%37%61%33%32%30%38%2d%35%65%62%35%2d%34%65%39%32%2d%38%37%39%33%2d%36%65%38%33%36%64%35%64%66%34%64%64@151.101.130.228:443?Telegram=@V2RayTz,@V2RayTz&security=tls&sni=haj%6cab.%75cda%76is.%65du&type=ws&path=/@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y--%2d-@S%68h_P%72oxy%2d---%40Shh%5fPro%78y?e%64=20%348&host=joi%6eshh%70rox%79bed%65eee%65ee.%69r&encryption=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D+%E2%9E%A0+%40V2RayTz+%7C+34083</code></blockquote>
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-169@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%2Fws%3Fed%3D2560&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=tls&encryption=none&alpn=h2,http/1.1&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@PrivateVPNN
+
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-169@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@PrivateVPNN
 
 vless://%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52%2d%61%64%31%66%36%39%31%61%39%63%61%39@151.101.0.155:80?Telegram=@V2RayTz,@V2RayTz&path=/te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52?ed%3d80&security=none&encryption=none&host=6.f%69dsx%73s21%3320x%2eir&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D+%E2%9E%A0+%40V2RayTz+%7C+34085</code></blockquote>
 
@@ -45,8 +47,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.107.27:22222?path=/telegram-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.29.98:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@VIProxys
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.29.98:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIProxys
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.211.10.37:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.232.132:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
@@ -122,6 +122,8 @@ trojan://Bw5Mz7QkVp@z-v2-074405.kailib.com:443?security=tls&headerType=none&type
 
 trojan://Bw5Mz7QkVp@z-v2-074405.kailib.com:443?security=tls&headerType=none&type=tcp#telegram ☂️ DailyV2ry
 
+trojan://Bw5Mz7QkVp@z-v2-074405.kailib.com:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://Bw5Mz7QkVp@z-v2-074420.kailib.com:443?security=tls&headerType=none&type=tcp#@meli_proxyy
 
 trojan://Bw5Mz7QkVp@z-v2-074420.kailib.com:443?security=tls&headerType=none&type=tcp#telegram 🍊 DailyV2ry
@@ -130,13 +132,9 @@ trojan://Bw5Mz7QkVp@z-v2-075392.kailib.com:443?security=tls&headerType=none&type
 
 trojan://Bw5Mz7QkVp@z-v2-076744.kailib.com:443?security=tls&headerType=none&type=tcp#telegram ☂️ DailyV2ry
 
-trojan://Bw5Mz7QkVp@z-v2-076744.kailib.com:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://Bw5Mz7QkVp@z-v2-076956.kailib.com:443?security=tls&headerType=none&type=tcp#telegram ☂️ DailyV2ry
 
 trojan://Bw5Mz7QkVp@z-v2-076960.kailib.com:443?security=tls&headerType=none&type=tcp#telegram ☂️ DailyV2ry
-
-trojan://Bw5Mz7QkVp@z-v2-076960.kailib.com:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://Bw5Mz7QkVp@z-v2-076971.kailib.com:443?security=tls&headerType=none&type=tcp#telegram ☂️ DailyV2ry
 
@@ -160,6 +158,8 @@ trojan://Bw5Mz7QkVp@z-v2-077010.kailib.com:443?security=tls&headerType=none&type
 
 trojan://Bw5Mz7QkVp@z-v2-077013.kailib.com:443?security=tls&headerType=none&type=tcp#telegram 🌟 DailyV2ry
 
+trojan://Bw5Mz7QkVp@z-v2-077015.kailib.com:443?security=tls&headerType=none&type=tcp#telegram 🚀 DailyV2ry
+
 wireguard://0MhVssshSTxc0H%2FMQvQ0pTS%2Bf0P8lSmF00l9t8JP4U4%3D@188.114.97.8:955?address=172.16.0.2%2F32&reserved=200%2C211%2C62&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
 wireguard://AC3E5rt3yfIlakibAtpALY7wsF%2B7Cz1nPgcCd71UtnA%3D@188.114.97.207:946?address=172.16.0.2%2F32&reserved=229%2C225%2C52&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
@@ -177,8 +177,6 @@ wireguard://cIIgS23g51Zi14Dr3ReybEtbaJtCqOLdYUX3aJ66jkg%3D@188.114.99.204:943?ad
 wireguard://cIIgS23g51Zi14Dr3ReybEtbaJtCqOLdYUX3aJ66jkg%3D@188.114.99.204:943?address=172.16.0.2%2F32&reserved=244%2C255%2C16&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://cN01O0JBldhengG9NnpL5FqfaW4JcDLqS1BGtEN7Emc%3D@188.114.98.161:955?address=172.16.0.2%2F32&reserved=190%2C248%2C202&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
-
-wireguard://cN01O0JBldhengG9NnpL5FqfaW4JcDLqS1BGtEN7Emc%3D@188.114.98.161:955?address=172.16.0.2%2F32&reserved=190%2C248%2C202&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://cObcHGlL00odJVMxhZjp6unB%2B1OS57UZwxhyHHGYBHY%3D@188.114.97.140:1014?address=172.16.0.2%2F32&reserved=239%2C93%2C137&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
 
